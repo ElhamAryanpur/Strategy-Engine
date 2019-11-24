@@ -1,0 +1,24 @@
+{
+  "name": "strategy-engine",
+  "version": "1.0.0",
+  "description": "A game engine for strategy genre",
+  "main": "engine.js",
+  "scripts": {
+    "start": "node engine.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElhamAryanpur/Strategy-Engine.git"
+  },
+  "keywords": [
+    "Game-Engine",
+    "Engine",
+    "Strategy"
+  ],
+  "author": "Elham Aryanpur",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ElhamAryanpur/Strategy-Engine/issues"
+  },
+  "homepage": "https://github.com/ElhamAryanpur/Strategy-Engine#readme"
+}
